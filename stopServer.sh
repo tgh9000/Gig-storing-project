@@ -1,0 +1,1 @@
+/modules/cs258/bin/postgres-server stop
